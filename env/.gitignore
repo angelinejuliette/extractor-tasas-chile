@@ -1,0 +1,4 @@
+env/
+__pycache__/
+*.pyc
+tasas_completas_hoy.json

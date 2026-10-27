@@ -1,0 +1,37 @@
+[
+    {
+        "indicador":"Dolar_Observado",
+        "fecha_valor":"20-10-2026",
+        "valor":981.86
+    },
+    {
+        "indicador":"Euro",
+        "fecha_valor":"20-10-2026",
+        "valor":1100.86
+    },
+    {
+        "indicador":"Yen_Japones",
+        "fecha_valor":"21-10-2026",
+        "valor":158.16
+    },
+    {
+        "indicador":"UF",
+        "fecha_valor":"09-11-2026",
+        "valor":41295.46
+    },
+    {
+        "indicador":"UTM",
+        "fecha_valor":"01-11-2026",
+        "valor":72440.0
+    },
+    {
+        "indicador":"Libra_Cobre_Centavos_USD",
+        "fecha_valor":"21-10-2026",
+        "valor":6.5525
+    },
+    {
+        "indicador":"Tasa_Politica_Monetaria_Porcentaje",
+        "fecha_valor":"20-10-2026",
+        "valor":4.5
+    }
+]
